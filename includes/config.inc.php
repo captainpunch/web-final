@@ -15,10 +15,10 @@
 define('LIVE', FALSE);
 
 // Admin contact address:
-define('EMAIL', 'gjschorgl@ksu.edu');
+define('EMAIL', 'bballer3538@gmail.com');
 
 // Site URL (base for all redirections):
-define ('BASE_URL', 'http://10.136.212.37/gjschorgl/assignment10/');
+define ('BASE_URL', 'http://gschorgl.com');
 
 // Adjust the time zone for PHP 5.1 and greater:
 date_default_timezone_set ('US/Central');
